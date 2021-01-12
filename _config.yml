@@ -19,11 +19,11 @@ locale                   : "en-US"
 title                    : "Schizophrenia"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "DomMorello"
+name                     : "Donghyeon Lee"
 description              : "Tech-blog"
 url                      : "https://dommorello.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "DomMorello/DomMorello.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "dommorello/dommorello.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/88x88.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -96,7 +96,7 @@ author:
   name             : "DomMorello"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
-  location         : "Seoul"
+  location         : "Seoul, republic of korea"
   email            :
   links:
     - label: "Email"
