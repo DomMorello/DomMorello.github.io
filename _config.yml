@@ -95,9 +95,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Donghyeon"
+  name             : "DomMorello"
   avatar           : "/assets/images/me.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "??? Tech-blog starting from 2021"
+  bio              : "**Tech-blog starting from 2021**"
   location         : "Seoul, Republic of Korea"
   email            :
   links:
